@@ -22,13 +22,15 @@
     </style>
     <body class="antialiased">
 
-        <h1>Hello World!</h1> <h1> Teste 0.1 </h1>
+        <div>
+            <h1>Hello World!</h1> <h1> Teste 0.1 </h1>
 
-        <h2>Testando for</h2>
-        <p> Testando conflito</p>
-        <h3> Teste 0.2 </h3>
+            <h2>Testando for</h2>
+            <p> Testando conflito</p>
+            <h3> Teste 0.2 </h3>
 
-        <p>Testando conflito</p>
+            <p>Testando conflito</p>
+        </div>
 
         Informe um número:git
         <select
