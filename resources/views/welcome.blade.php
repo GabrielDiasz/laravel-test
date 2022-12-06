@@ -22,6 +22,23 @@
     </style>
     <body class="antialiased">
 
+        <div class="main">
+            <h1>
+                Hello world!
+            </h1>
+
+            <h1>Criando conflitos</h1>
+
+            <select
+                required
+            >
+                @for($i = 0; $i <= 10; $i++)
+                    <option>{{ $i }}</option>
+                @endfor
+            </select>
+
+            <p>bvjsnnzmzn kdn</p>
+        </div>
         <h1>
             Hello world!
         </h1>
