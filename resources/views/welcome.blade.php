@@ -28,7 +28,9 @@
         <p> Testando conflito</p>
         <h3> Teste 0.2 </h3>
 
-        Informe um número:
+        <p>Testando conflito</p>
+
+        Informe um número:git
         <select
             required
         >
