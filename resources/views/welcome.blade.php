@@ -21,9 +21,6 @@
         }
     </style>
     <body class="antialiased">
-
-        <h1>Hello world!</h1>
-        <h2>Olá mundo!</h2>
 {{--        <select--}}
 {{--            required--}}
 {{--        >--}}
@@ -31,6 +28,8 @@
 {{--                <option>{{ $i }}</option>--}}
 {{--            @endfor--}}
 {{--        </select>--}}
+
+    <h1>Conflito!</h1>
 
     </body>
 </html>
