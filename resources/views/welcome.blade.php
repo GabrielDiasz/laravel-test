@@ -32,7 +32,7 @@
 {{--                <option>{{ $i }}</option>--}}
 {{--            @endfor--}}
 {{--        </select>--}}
-        <p>bvjsnnzmzn kdn</p>
+        <p>bvjsnnzmzn kdn</p><h2>conflito</h2>
 
     </body>
 </html>
