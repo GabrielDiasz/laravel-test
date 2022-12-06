@@ -25,9 +25,17 @@
         <div>
             <h1>Hello World!</h1> <h1> Teste 0.1 </h1>
 
+<<<<<<< HEAD
             <h2>Testando for</h2>
             <p> Testando conflito</p>
             <h3> Teste 0.2 </h3>
+=======
+        <h2>Testando for</h2>
+        <p> Testando conflito</p>
+        <h3> Teste 0.2 </h3>
+        <h4> Nome do Usuário: </h4>
+        <h5> Idade do Usuário: </h5>
+>>>>>>> refs/remotes/origin/main
 
             <p>Testando conflito</p>
         </div>
