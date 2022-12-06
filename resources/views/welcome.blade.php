@@ -28,6 +28,8 @@
             </h1>
 
             <h1>Criando conflitos</h1>
+            <h2> jjjj</h2>
+            <h3>kkkk</h3>
 
             <select
                 required
@@ -39,6 +41,17 @@
 
             <p>bvjsnnzmzn kdn</p>
         </div>
+        <h1>
+            Hello world!
+        </h1>
+{{--        <select--}}
+{{--            required--}}
+{{--        >--}}
+{{--            @for($i = 0; $i <= 10; $i++)--}}
+{{--                <option>{{ $i }}</option>--}}
+{{--            @endfor--}}
+{{--        </select>--}}
+        <p>bvjsnnzmzn kdn</p><h2>conflito</h2>
 
         <div class="container">
             
