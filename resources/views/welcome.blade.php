@@ -26,7 +26,7 @@
             Hello world!
         </h1>
 
-        <h2>Com conteudo qualquer coisa</h2>
+        <h2>Conflito</h2>
 
 {{--        <select--}}
 {{--            required--}}
