@@ -25,7 +25,6 @@
         <h1>
             Hello world!
         </h1>
-
 {{--        <select--}}
 {{--            required--}}
 {{--        >--}}
@@ -33,6 +32,6 @@
 {{--                <option>{{ $i }}</option>--}}
 {{--            @endfor--}}
 {{--        </select>--}}
-<h2>OI é a Anna </h2>
+<h2>OI é a Anna </h2> <h2></h2>
     </body>
 </html>
