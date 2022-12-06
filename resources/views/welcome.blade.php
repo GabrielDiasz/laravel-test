@@ -25,7 +25,6 @@
         <h1>
             Hello world! Duas vezes
         </h1>
-        <h2>Com conteudo</h2>
 {{--        <select--}}
 {{--            required--}}
 {{--        >--}}
