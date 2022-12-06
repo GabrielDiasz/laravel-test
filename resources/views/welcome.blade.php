@@ -25,7 +25,7 @@
         <h1>
             Hello world!
         </h1>
-        <h2></h2>
+        <h2>Conflito</h2>
 {{--        <select--}}
 {{--            required--}}
 {{--        >--}}
