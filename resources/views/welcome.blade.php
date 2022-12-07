@@ -33,6 +33,7 @@
 
             <select
                 required
+                
             >
                 @for($i = 0; $i <= 10; $i++)
                     <option>{{ $i }}</option>
@@ -44,17 +45,11 @@
         <h1>
             Hello world!
         </h1>
-{{--        <select--}}
-{{--            required--}}
-{{--        >--}}
-{{--            @for($i = 0; $i <= 10; $i++)--}}
-{{--                <option>{{ $i }}</option>--}}
-{{--            @endfor--}}
-{{--        </select>--}}
+
         <p>bvjsnnzmzn kdn</p><h2>conflito</h2>
 
         <div class="container">
-            
+
         </div>
 
     </body>
